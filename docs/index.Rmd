@@ -1,0 +1,27 @@
+---
+title: "Do it"
+output: 
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About
+Iam currently study in Data trail course of data science after I complete it I will enter google data science course
+
+## interest
+Know some of the complexity of the world
+
+## project
+Research of procalcitonin level in sepsis and septic shock patients in sudan
+
+## profile
+[Github](http://github.com/Drbargo)
+
+## contact
+[abdallah22.eq@gamil](mailto:abdallah22.eq@gmail.com)
